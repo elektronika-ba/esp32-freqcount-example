@@ -1,3 +1,3 @@
 [submodule "components/esp32-freqcount"]
 	path = components/esp32-freqcount
-	url = https://github.com/DavidAntliff/esp32-freqcount.git
+	url = https://github.com/elektronika-ba/esp32-freqcount.git
